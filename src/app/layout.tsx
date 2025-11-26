@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CloudMiner AI - Mineração Inteligente de Criptomoedas",
-  description: "Plataforma de mineração de criptomoedas na nuvem com IA avançada. Maximize seus lucros com algoritmos inteligentes.",
+  title: "Meu Site Pessoal - Acesso Restrito",
+  description: "Site pessoal privado com acesso protegido por senha",
 };
 
 export default function RootLayout({
